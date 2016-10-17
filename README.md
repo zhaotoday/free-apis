@@ -34,5 +34,14 @@ http://fanyi.youdao.com/openapi
 爱词霸翻译  
 http://dict-co.iciba.com/search.php?word=hello
 
+soso 接口  
+http://cgi.music.soso.com/fcgi-bin/fcg_search_xmldata.q?source=10&w=%E5%90%8E%E6%9D%A5&perpage=1&ie=utf-8
+
 多米音乐  
 http://v5.pc.duomi.com/search-ajaxsearch-searchall?kw=%E9%98%B3%E5%85%89%E6%80%BB%E5%9C%A8%E9%A3%8E%E9%9B%A8%E5%90%8E
+
+百付宝接口  
+https://www.baifubao.com/callback?cmd=1059&callback=phone&phone=13950442340
+
+淘宝网接口  
+https://tcc.taobao.com/cc/json/mobile_tel_segment.htm?tel=13950442340
