@@ -1,7 +1,7 @@
 聚合数据  
 https://www.juhe.cn/
 
-百度 LBS 开放平台（含查询天气）  
+百度 LBS 开放平台（含查询天气）  
 http://developer.baidu.com/map/carapi-7.htm
 
 百度 API 集市  
