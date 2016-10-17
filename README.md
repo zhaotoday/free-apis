@@ -24,3 +24,15 @@ http://wiki.open.qq.com/wiki/API%E6%96%87%E6%A1%A3
 
 快递 100  
 https://www.kuaidi100.com/openapi/
+
+住哪网开放平台  
+http://open.zhuna.cn/
+
+有道翻译 API  
+http://fanyi.youdao.com/openapi
+
+爱词霸翻译  
+http://dict-co.iciba.com/search.php?word=hello
+
+多米音乐  
+http://v5.pc.duomi.com/search-ajaxsearch-searchall?kw=%E9%98%B3%E5%85%89%E6%80%BB%E5%9C%A8%E9%A3%8E%E9%9B%A8%E5%90%8E
