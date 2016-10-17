@@ -21,3 +21,6 @@ http://int.dpool.sina.com.cn/iplookup/iplookup.php?format=json&ip=117.89.35.58
 
 腾讯开放平台  
 http://wiki.open.qq.com/wiki/API%E6%96%87%E6%A1%A3
+
+快递 100  
+https://www.kuaidi100.com/openapi/
