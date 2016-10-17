@@ -1,3 +1,10 @@
+## 参考网址
+
+https://news.cnblogs.com/n/509904/  
+https://zhuanlan.zhihu.com/p/21320392?refer=passer
+
+## API 列表
+
 聚合数据  
 https://www.juhe.cn/
 
@@ -48,3 +55,6 @@ https://www.baifubao.com/callback?cmd=1059&callback=phone&phone=13950442340
 
 淘宝网接口  
 https://tcc.taobao.com/cc/json/mobile_tel_segment.htm?tel=13950442340
+
+获取京东商品价格  
+http://p.3.cn/prices/mgets?skuIds=J_2938299&type=1
