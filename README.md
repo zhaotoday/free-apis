@@ -1,7 +1,8 @@
 ## 参考网址
 
 https://news.cnblogs.com/n/509904/  
-https://zhuanlan.zhihu.com/p/21320392?refer=passer
+https://zhuanlan.zhihu.com/p/21320392?refer=passer  
+http://blog.csdn.net/sdjianfei/article/details/53157334
 
 ## API 列表
 
