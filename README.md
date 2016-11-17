@@ -63,4 +63,11 @@ http://p.3.cn/prices/mgets?skuIds=J_2938299&type=1
 豆瓣 API  
 https://developers.douban.com/wiki/?title=guide
 
+淘宝开放平台  
+http://open.taobao.com/
 
+微信开放平台  
+https://open.weixin.qq.com/
+
+融云即时通讯云  
+http://www.rongcloud.cn/
