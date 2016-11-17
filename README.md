@@ -71,3 +71,12 @@ https://open.weixin.qq.com/
 
 融云即时通讯云  
 http://www.rongcloud.cn/
+
+MOB API - 移动开发者服务平台   
+http://www.mob.com/#/
+
+腾讯 Bugly - 为移动开发者提供专业的异常上报，运营统计和内测分发解决方案
+https://bugly.qq.com/v2/
+
+
+
