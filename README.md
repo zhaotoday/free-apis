@@ -59,3 +59,8 @@ https://tcc.taobao.com/cc/json/mobile_tel_segment.htm?tel=13950442340
 
 获取京东商品价格  
 http://p.3.cn/prices/mgets?skuIds=J_2938299&type=1
+
+豆瓣 API
+https://developers.douban.com/wiki/?title=guide
+
+
