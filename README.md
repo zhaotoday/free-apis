@@ -78,5 +78,12 @@ http://www.mob.com/#/
 腾讯 Bugly - 为移动开发者提供专业的异常上报，运营统计和内测分发解决方案  
 https://bugly.qq.com/v2/
 
+Bmob - 免去所有服务器端编码工作量  
+http://www.bmob.cn/
 
+Arrownock 社交应用  
+http://docs.arrownock.com/
+
+leancloud  
+https://leancloud.cn/docs/index.html
 
